@@ -11,10 +11,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+make_gif.py
 
 # Testing
 .pytest_cache/
-reports/
+reports/*
 !reports/automation_API.gif
 *.html
 *.log
