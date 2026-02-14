@@ -1,4 +1,6 @@
 # Python API Automation Framework
+Created by **Senior QA Engineer Ara Housepian**
+
 
 <img src="reports/automation_API.gif" width="600" alt="Automation Demo">
 
