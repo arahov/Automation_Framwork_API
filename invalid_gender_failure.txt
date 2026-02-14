@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.5, pytest-9.0.2, pluggy-1.6.0 -- D:\My Projects\Automation_Framwork_API\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+metadata: {'Python': '3.13.5', 'Platform': 'Windows-11-10.0.26200-SP0', 'Packages': {'pytest': '9.0.2', 'pluggy': '1.6.0'}, 'Plugins': {'html': '4.2.0', 'metadata': '3.1.1'}, 'JAVA_HOME': 'C:\\Users\\araho\\scoop\\apps\\openjdk\\current'}
+rootdir: D:\My Projects\Automation_Framwork_API
+configfile: pytest.ini
+plugins: html-4.2.0, metadata-3.1.1
+collecting ... ERROR: Wrong expression passed to '-k': 'invalid_gender': at column 1: expected not OR left parenthesis OR identifier; got string literal
+
+collected 7 items
+
+- Generated html report: file:///D:/My%20Projects/Automation_Framwork_API/reports/report.html -
+============================ no tests ran in 0.01s ============================
